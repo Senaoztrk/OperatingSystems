@@ -1,0 +1,8 @@
+Thu Apr  4 13:25:00 +03 2024
+Child1 (PID: 195) created. Parent PID: 190
+Child2 (PID: 196) created. Parent PID: 190
+Torun1 (PID: 197) created. Parent PID: 195
+Torun2 (PID: 198) created. Parent PID: 195
+Torun3 (PID: 199) created. Parent PID: 195
+İşlemler tamamlandı.
+init()---init(116)---init(116)---bash(118)---152120211050_uy(190)---sh(190)---pstree(190)

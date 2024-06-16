@@ -1,0 +1,50 @@
+Parent Process (PID: 54)
+Child1 Process (PID: 55, Parent PID: 54)
+Grandchild1 Process (PID: $$) executed
+senanuroztrk
+init()---init(14)---init(14)---bash(16)---asdf(54)---asdf(54)-+-asdf(54)
+                                                              |-asdf(54)---sh(54)---pstree(54)
+                                                              `-asdf(54)---sh(54)
+Thu Apr  4 12:43:02 +03 2024
+Child2 Process (PID: 70, Parent PID: 54)
+Child2 Process (PID: 71, Parent PID: 54)
+Child2 Process (PID: 54, Parent PID: 16)
+Thu Apr  4 13:03:36 2024
+Child1 process with PID 91, parent PID 88
+Grandchild1 process with PID 92, parent PID 91
+Working directory: /home/senanuroztrk
+Grandchild2 process with PID 93, parent PID 91
+Process tree:
+
+init()---init(14)---init(14)---bash(16)---asdfe(88)---asdfe(88)---asdfe(88)---sh(88)---pstree(88)
+Grandchild3 process with PID 97, parent PID 91
+Current user: senanuroztrk
+Session details: (null)
+Child2 process with PID 100, parent PID 88
+Parent Process (PID: 136)
+Thu Apr  4 13:09:08 +03 2024
+Child1 Process (PID: 141, Parent PID: 136)
+Child2 Process (PID: 142, Parent PID: 136)
+Grandchild3 Process (PID: $$) executed
+Grandchild1 Process (PID: $$) executed
+Grandchild2 Process (PID: $$) executed
+init()---init(162)---init(162)---bash(164)---wer(182)---wer(182)-+-wer(182)
+Parent Process (PID: 167)
+Thu Apr  4 13:23:13 +03 2024
+Child1 (PID: 172) created. Parent PID: 167
+Child2 (PID: 173) created. Parent PID: 167
+Torun1 (PID: 174) created. Parent PID: 172
+Torun2 (PID: 175) created. Parent PID: 172
+Torun3 (PID: 176) created. Parent PID: 172
+İşlemler tamamlandı.
+init()---init(116)---init(116)---bash(118)---123(167)---sh(167)---pstree(167)
+init()---init(162)---init(162)---bash(164)---wer(182)---wer(182)-+-wer(182)
+Parent Process (PID: 190)
+Thu Apr  4 13:25:00 +03 2024
+Child1 (PID: 195) created. Parent PID: 190
+Child2 (PID: 196) created. Parent PID: 190
+Torun1 (PID: 197) created. Parent PID: 195
+Torun2 (PID: 198) created. Parent PID: 195
+Torun3 (PID: 199) created. Parent PID: 195
+İşlemler tamamlandı.
+init()---init(116)---init(116)---bash(118)---152120211050_uy(190)---sh(190)---pstree(190)

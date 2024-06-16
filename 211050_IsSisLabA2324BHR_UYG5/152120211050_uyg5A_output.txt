@@ -1,0 +1,12 @@
+0.                                     --> Haydi baslayalim...
+ 1. (kafa ) Gozluk                      --> Kalan oge sayisi: 10
+ 2. (bacak) Pantolon                    --> Kalan oge sayisi:  9
+ 3. (ayak ) Corap                       --> Kalan oge sayisi:  8
+ 4. (govde) Gomlek                      --> Kalan oge sayisi:  7
+ 5. (govde) Kravat                      --> Kalan oge sayisi:  6
+ 6. (govde) Ceket                       --> Kalan oge sayisi:  5
+ 7. (govde) Mont                        --> Kalan oge sayisi:  4
+ 8. (bacak) Kemer                       --> Kalan oge sayisi:  3
+ 9. (bacak) Cuzdan                      --> Kalan oge sayisi:  2
+10. (kafa ) Sapka                       --> Kalan oge sayisi:  1
+11. (ayak ) Ayakkabi                    --> Goreve hazirim!

@@ -1,0 +1,19 @@
+senanuroztrk@LAPTOP-GA4JNITQ:~$ nano 152120211050_UYG6A.c
+senanuroztrk@LAPTOP-GA4JNITQ:~$ gcc -o 152120211050_UYG6A 152120211050_UYG6A.c
+senanuroztrk@LAPTOP-GA4JNITQ:~$ ./152120211050_UYG6A
+&etext  =  0x5636df53f411
+&end    =  0x5636df542020
+&edata  =  0x5636df542010
+Enter memory location in hex (start with 0x): 0x5636df53f412
+
+
+------Read-write segment!!!------
+
+Reading 0x5636df53f412: Reading is OK
+0
+Writing 0 back to 0x5636df53f412: Segmentation fault
+senanuroztrk@LAPTOP-GA4JNITQ:~$ ./152120211050_UYG6A
+&etext  =  0x5627dc759411
+&end    =  0x5627dc75c020
+&edata  =  0x5627dc75c010
+Enter memory location in hex (start with 0x): 0x5627dc75c009
